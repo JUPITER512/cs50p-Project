@@ -36,7 +36,7 @@ Dependencies are managed here to ensure reproducibility.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <YOUR_REPO_URL>
+    git clone https://github.com/JUPITER512/cs50p-Project.git
     cd project
     ```
 
