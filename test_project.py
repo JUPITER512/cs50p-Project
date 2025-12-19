@@ -3,7 +3,6 @@ from unittest.mock import patch
 from project import get_exchange_rate, get_movie_details, get_weather_data
 
 def test_get_exchange_rate():
-    # Simulate a successful API response
     with patch("requests.get") as mock_get:
         mock_get.return_value.status_code = 200
         mock_get.return_value.json.return_value = {

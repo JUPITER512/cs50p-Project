@@ -1,5 +1,5 @@
 # Universal API Tool
-#### Video Demo:  <URL_HERE>
+#### Video Demo:  https://youtu.be/gXCEmsxDX3g
 
 ## Description
 The **Universal API Tool** is a command-line interface (CLI) application developed as my final project for CS50P. It serves as an "all-in-one" utility dashboard that allows users to fetch real-time data from three distinct external services without leaving their terminal.
